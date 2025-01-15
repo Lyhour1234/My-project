@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    font-size: 20px;
+}
+li{
+   list-style: none;
+    
+}
+header{
+    background-color: aqua;
+}
+.logo{
+    mix-blend-mode: multiply;
+    margin-bottom: ;
+}
